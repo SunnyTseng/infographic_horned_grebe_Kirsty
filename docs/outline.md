@@ -4,14 +4,9 @@ Highlighting connections: assessing risks for a migratory bird to inform COSEWIC
 
 
 ### Introduction 
-Guiding the conservation of migratory birds is integral to Canada’s commitments under both the Migratory Bird Convention Act and Species at Risk Act, and status reports from the Committee on the Status of Endangered Wildlife in Canada (COSEWIC) are key tools to designate protection and recovery activities.
-
-Yet a recent report by the Office of the Auditor General of Canada signals that ECCC is falling short of providing COSEWIC the support it needs for timely status assessments.
-
+Guiding the conservation of migratory birds is central to Canada’s commitments under the Migratory Bird Convention Act and Species at Risk Act, yet recent findings from the Office of the Auditor General highlight that ECCC needs to provide stronger support for timely COSEWIC status assessments. To support timely and effective conservation of migratory birds, we investigated the Horned Grebe’s (Western population) annual movements, migratory connectivity, and contaminant exposure in eggs and plasma.
 
 ### Method 
-- To improve ECCC’s ability to identify and evaluate conservation actions for migratory birds, together with our partners at CWS, we studied the Horned Grebe (Western population), a wetland dependent migratory bird, which is listed as Special Concern under the Species at Risk Act.
-
 - We used external tracking devices and collected multiple tissue samples (blood, eggs, feathers) from birds trapped in Saskatchewan and the Northwest Territories to fill critical knowledge gaps identified in the COSEWIC Management Plan for this species.
 
 
