@@ -14,6 +14,10 @@ We will include the infographic as slide in the presentation deck, so it can be 
 
 ## Product
 
+#### version 1 (2025 Nov.8)
+
+![](./product/horned_grebe_infographic_v1.jpg)
+
 
 ## Time line
 
