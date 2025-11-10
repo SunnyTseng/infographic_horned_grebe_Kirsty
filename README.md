@@ -14,6 +14,12 @@ We will include the infographic as slide in the presentation deck, so it can be 
 
 ## Product
 
+#### version 2 (2025 Nov.9)
+
+Download the file in [PDF](./product/horned_grebe_infographic_v2.pdf), [PNG](./product/horned_grebe_infographic_v2.png), or [JPG](./product/horned_grebe_infographic_v2.jpg)
+
+![](./product/horned_grebe_infographic_v2.jpg)
+
 #### version 1 (2025 Nov.8)
 
 ![](./product/horned_grebe_infographic_v1.jpg)
